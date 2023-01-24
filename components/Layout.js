@@ -1,7 +1,7 @@
 import Footer from "@/components/Footer"
 import Meta from "@/components/Meta"
 
-export default ({preview, children}) => {
+export default function Layout({preview, children}) {
     return (
         <>
             <Meta />
