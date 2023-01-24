@@ -1,7 +1,7 @@
 export default function Footer() {
     return (
         <footer>
-            &copy; Mathis Hüttl
+            &copy; 2023 - Mathis Hüttl
         </footer>
     )
 }
